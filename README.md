@@ -26,4 +26,4 @@ Fine-tuning DistilBERT on the UCSD Goodreads book review dataset to classify rev
 
 - Kaggle Notebook: https://www.kaggle.com/code/pinakijg25ait2045/mlops-assignment-2
 - Hugging Face Model: https://huggingface.co/pjayG25AIT2045/distilbert-goodreads-genres
-- W&B Dashboard: https://wandb.ai/g25ait2045-indian-institute-of-technology-jodhpur/mlops-assignment2/table?nw=nwuserg25ait2045
+- W&B Dashboard: https://wandb.ai/pinakijayakar01-iitj/mlops-assignment2
