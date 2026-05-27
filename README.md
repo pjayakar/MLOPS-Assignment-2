@@ -8,10 +8,7 @@ Fine-tuning DistilBERT on the UCSD Goodreads book review dataset to classify rev
    git clone https://github.com/pjayakar/MLOPS-Assignment-2.git
    cd MLOPS-Assignment-2
 
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run on Kaggle:
+2. Run on Kaggle:
    Import MLOps-assignment2.ipynb into Kaggle, enable GPU T4 x2 under Settings → Accelerator, add WANDB_API_KEY and HF_TOKEN under Add-ons → Secrets, then run all cells.
 
 ## Results
