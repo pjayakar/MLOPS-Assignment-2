@@ -18,9 +18,9 @@ Fine-tuning DistilBERT on the UCSD Goodreads book review dataset to classify rev
 
 | Metric    | Score  |
 |-----------|--------|
-| Accuracy  | 0.5888 |
-| F1 Score  | 0.5933 |
-| Eval Loss | 2.3896 |
+| Accuracy  | 0.6025 |
+| F1 Score  | 0.6035 |
+| Eval Loss | 2.3903 |
 
 ## Links
 
