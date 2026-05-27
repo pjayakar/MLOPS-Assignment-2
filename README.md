@@ -1,4 +1,4 @@
-# MLOps Assignment 2 — Hugging Face Fine-Tuning, Experiment Tracking & Model Deployment
+# MLOps Assignment 2: Hugging Face Fine-Tuning, Experiment Tracking & Model Deployment
 
 Fine-tuning DistilBERT on the UCSD Goodreads book review dataset to classify reviews into 8 genres, with experiment tracking via Weights & Biases and model deployment to Hugging Face Hub.
 
